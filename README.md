@@ -48,4 +48,4 @@ To run the project locally, follow these steps:
 ### Clone the repository
 
 ```bash
-[git clone https://github.com/your-username/fullstack-pizza-app.git](https://github.com/moidalam05/fullstack-pizza-app.git)
+https://github.com/moidalam05/fullstack-pizza-app.git
